@@ -1,0 +1,4 @@
+for $file in $1.ppm
+do
+
+done
